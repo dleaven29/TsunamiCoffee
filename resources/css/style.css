@@ -73,6 +73,10 @@ html,body{
   float:left;
 }
 
+.clearfix{
+  clear:both;
+}
+
 .location{
   text-align:center;
   margin-bottom:7rem;
